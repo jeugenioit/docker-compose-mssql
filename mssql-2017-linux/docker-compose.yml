@@ -1,0 +1,11 @@
+version: "3.7"
+services:
+  mssql:
+    image: jeugenio/mssql-2017-express 
+    container_name: mssql-2017-express
+    ports:
+      - "1433:1433"
+    environment:
+      SA_PASSWORD: "YOUR_PASSWORD"
+      ACCEPT_EULA: "Y"
+      MSSQL_PID: "Express"
