@@ -1,4 +1,4 @@
-# docker-compose-mssql (SQL SERVER)
+# Docker Compose MSSQL (SQL SERVER)
 Docker compose to up SQL Server Database 2017 (14.0.X) Linux
 
 ### Create 
