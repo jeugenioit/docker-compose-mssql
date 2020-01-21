@@ -1,5 +1,5 @@
 # docker-compose-postgresql
-Docker compose to up SQL Server Database 2017 (14.0.x)
+Docker compose to up SQL Server Database 2017 (14.0.X) Linux
 
 ### Create 
 ``` bash
